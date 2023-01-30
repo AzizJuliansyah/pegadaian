@@ -10,7 +10,7 @@
                 <th>Date</th>
                 <th>Foto</th>
                 <th>Qr</th>
-                
+
             </tr>
         </thead>
 

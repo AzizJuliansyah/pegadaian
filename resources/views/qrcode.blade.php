@@ -108,13 +108,13 @@
 								<p>Dashboard</p>
 							</a>
 						</li>
-						<li class="nav-item active submenu">
+						<li class="nav-item ">
 							<a href="/siswa">
 								<i class="fas fa-list"></i>
 								<p>Table</p>
 							</a>
 						</li>
-                        <li class="nav-item">
+                        <li class="nav-item active submenu">
 							<a href="/qrcode">
 								<i class="fas fa-home"></i>
 								<p>Scan QR Code</p>

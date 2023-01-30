@@ -94,7 +94,7 @@ class SiswaController extends Controller
     public function show($id)
     {
         $data = siswa::where('nomor_induk', $id)->first();
-        return view('siswa/show')->with('data', $data);
+        return view('/qrcode')->with('data', $data);
     }
 
    
